@@ -1,0 +1,6 @@
+.devcontainer
+setup/build/
+.idea/
+.vscode/
+build/
+tmp/
